@@ -5,4 +5,4 @@
     'types': [text]
     args: []
     require_serial: false
-    additional_dependencies: ["cspell@2.1.9"]
+    additional_dependencies: ["cspell@2.1.10"]
